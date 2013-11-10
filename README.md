@@ -1,4 +1,4 @@
-yansu.org
+yuminzhu.github.io
 ===============
 
 我的博客
